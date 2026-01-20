@@ -1,16 +1,23 @@
-## Hi there 👋
+# Juan Campos
 
-<!--
-**jcampos-94/jcampos-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, GitHub! 👋
 
-Here are some ideas to get you started:
+I'm Juan Campos, a student at Brigham Young University-Idaho interested in web development. Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- I'm currently learning HTML, CSS, JavaScript, and modern web development fundamentals.
+- My goals are to grow as a full-stack developer, build real-world projects, and continuously improve my problem-solving skills.
+- Ask me about web fundamentals, learning as a developer, or organizing projects for school and practice.
+
+## Technologies and Tools
+
+- Proficient in: HTML, CSS, JavaScript
+- Skills: Git, GitHub, basic responsive design, debugging, version control, VS Code
+
+## Let's Connect!
+
+- Here is my [LinkedIn](https://www.linkedin.com/in/juan-campos-g/) profile
+- 
+
+Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀
