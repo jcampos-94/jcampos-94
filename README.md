@@ -18,6 +18,5 @@ I'm Juan Campos, a student at Brigham Young University-Idaho interested in web d
 ## Let's Connect!
 
 - Here is my [LinkedIn](https://www.linkedin.com/in/juan-campos-g/) profile
-- 
 
 Feel free to explore my repositories, and don't hesitate to reach out. Happy coding! 🚀
