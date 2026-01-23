@@ -23,7 +23,7 @@ I have a background in technical support, which strengthened my troubleshooting 
 ### ⚙️ Back-End
 - Node.js
 - PHP
-- .NET
+- .NET (C# basics)
 - Server-side data processing
 
 ### 🗄 Databases
@@ -50,6 +50,16 @@ Here you'll find academic, personal, and practice projects where I apply what I 
 - Back-end and database-driven systems
 - Experiments with new frameworks and tools
 - More projects are added as I continue growing as a developer.
+
+## 📂 Featured Projects
+### 🛒 Havencraft
+A dynamic e-commerce-style web application for handcrafted products. The site uses a database to manage seller and product data, demonstrating full-stack functionality and modern front-end architecture.<br>
+**Tech:** HTML, CSS, JavaScript, React, Next.js<br>
+🔗 https://github.com/jcampos-94/wdd430-haven-craft
+### 🎮 Pokegallery
+An interactive web application that uses the Pokémon API to display and explore Pokémon data, showcasing JavaScript-based DOM manipulation and asynchronous data handling.<br>
+**Tech:** HTML, CSS, JavaScript<br>
+🔗 https://github.com/jcampos-94/pokegallery
 
 ## 📊 GitHub Statistics
 
