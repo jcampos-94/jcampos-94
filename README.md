@@ -12,30 +12,35 @@ I have a background in technical support, which strengthened my troubleshooting 
 
 ## 🛠 Skills and Technologies
 
-Front-End:
+### 🎨 Front-End
 - HTML
 - CSS
 - JavaScript
 - Responsive Web Design
-- DOM Manipulation
 - React (learning)
-- Back-End
+- DOM Manipulation
+
+### ⚙️ Back-End
 - Node.js
 - PHP
 - .NET
 - Server-side data processing
-- Databases
+
+### 🗄 Databases
 - SQL
 - Relational Databases
 - NoSQL (MongoDB basics)
-- Tools
-- Git & GitHub
+
+### 🔧 Tools
+- Git
+- GitHub
 - VS Code
-- Debugging & Testing Fundamentals
-- Computer Science Foundations
+
+### 🧠 Computer Science Foundations
 - Data Structures
 - Algorithms
 - Program Design
+- Software Testing Fundamentals
 
 ## 📂 Projects and Work
 
